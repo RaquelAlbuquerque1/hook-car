@@ -11,4 +11,4 @@ React Track Challenge - Ignite - @Rocketseat. Consists of finishing an hook for 
 - Should be possible display error messages
 - Among others.
 
-### You can see then all rules are corret running the tests of the application.
+### You can see then all rules are correct running the tests of the application.
