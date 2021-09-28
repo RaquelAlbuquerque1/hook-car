@@ -1,7 +1,7 @@
 # Hook Car
 React Track Challenge - Ignite - @Rocketseat. Consists of finishing an hook for shopping cart.
 
-## Actions requested for this chalenge
+## Actions requested for this challenge
 
 - Should be possible add  a new product to the cart
 - Should be possible remove a product from the cart
